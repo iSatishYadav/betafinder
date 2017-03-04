@@ -1,0 +1,14 @@
+[
+  {
+    "outputFileName": "vendor/device-mockups/device-mockups.min.css",
+    "inputFiles": [
+      "vendor/device-mockups/device-mockups.css"
+    ]
+  },
+  {
+    "outputFileName": "vendor/device-mockups/device-mockups2.min.css",
+    "inputFiles": [
+      "vendor/device-mockups/device-mockups2.css"
+    ]
+  }
+]
